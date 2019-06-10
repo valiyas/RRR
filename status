@@ -1,0 +1,46 @@
+[33mcommit 4b48ab4e284a613604d2c8031fc3c71dd7741542[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: shaikh <valiya.shaik@gmail.com>
+Date:   Fri Jun 7 06:30:38 2019 +0200
+
+    All
+
+[1mdiff --git a/daily notes .txt b/daily notes .txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ecd958c[m
+[1m--- /dev/null[m
+[1m+++ b/daily notes .txt[m	
+[36m@@ -0,0 +1,31 @@[m
+[32m+[m[32mSVN is centralized repository  management -[m[41m [m
+[32m+[m
+[32m+[m[41m [m
+[32m+[m[32m\GIT - distributed repostiory Management[m
+[32m+[m
+[32m+[m[32mgit status[m
+[32m+[m[32mgit init - to initialize the repositiory[m[41m [m
+[32m+[m[32mto configure the User name  ---git config --global user.name "shaikh"[m
+[32m+[m
+[32m+[m[32mgit config --global user.email ""email id"[m
+[32m+[m
+[32m+[m
+[32m+[m[32mgit status - verify the workspace & staging files[m
+[32m+[m
+[32m+[m
+[32m+[m[32mRed colour files means - Read colour (Git status files)[m
+[32m+[m[32mHow to add files from workspace to staging\Index- Git add filename[m
+[32m+[m[32m--->  git add f11[m
+[32m+[m
+[32m+[m[32mGit status files in Green colour - Staging\Index[m
+[32m+[m
+[32m+[m[32mHow to add files from staging\Index to local repository[m
+[32m+[m
+[32m+[m[32mGit commit --m "Loclrepo"[m
+[32m+[m
+[32m+[m[32mGit status[m
+[32m+[m[32mgit log -- we can see sha code for f11 file[m
+[32m+[m[32mgit show shaw code[m
+[32m+[m
+[32m+[m
+[32m+[m
+[1mdiff --git a/f13 b/f13[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
